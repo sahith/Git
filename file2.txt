@@ -15,3 +15,6 @@ Git log is used to view the commits
 git log --oneline is used to list all the commits in one line
 
 git log --oneline | wc -l is used to list the total number of commits
+
+
+git init is used for initializing
