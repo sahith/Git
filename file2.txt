@@ -9,3 +9,9 @@ After Add command your untracked files now will be in staging area
 
 AFter add the command follows is commit
 git commit -m "<your message appears here>"
+
+Git log is used to view the commits
+
+git log --oneline is used to list all the commits in one line
+
+git log --oneline | wc -l is used to list the total number of commits
